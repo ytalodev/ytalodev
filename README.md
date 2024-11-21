@@ -8,7 +8,7 @@
 
 <p align="left">📚 - Atualmente estou estudando Front-End<br>🤖 - Sou Presidente da Liga Acadêmica de Programação e Robótica,  onde desenvolvemos projetos que exploram a programação e robótica utilizando a linguagem .ino/C++ com foco em Arduino e tecnologias relacionadas.</p>
 
-###
+##
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
