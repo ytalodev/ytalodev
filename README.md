@@ -1,4 +1,4 @@
-<h2 align="left">Opaaaaaaa! Meu nome é Ytalo Izidoro.</h2>
+<h2 align="left">Heey, I'm Ytalo 🤙. </h2>
 
 ###
 
@@ -6,7 +6,23 @@
 
 ###
 
-<p align="left">📚 - Atualmente estou estudando Front-End<br>🤖 - Sou Presidente da Liga Acadêmica de Programação e Robótica,  onde desenvolvemos projetos que exploram a programação e robótica utilizando a linguagem .ino/C++ com foco em Arduino e tecnologias relacionadas.</p>
+<p align="left">🖥️ - Sou Analista de Suporte em TI, atuando com suporte técnico especializado, manutenção e operação de sistemas internos, além de atuar como Autoridade de Registro, emitindo certificados digitais com segurança e confiabilidade.<br> 
+📚 - Atualmente estou estudando Front-End 
+<br>
+🤖 - Minha paixão pela robótica me levou a ser campeão do Campeonato Alagoano de Sumô de Robôs 2024 (1º lugar universitário e 3 premiações adicionais).
+<br>
+🏆 1º lugar na categoria 1kg Universitária
+<br>
+🤝 Trabalho em Equipe
+<br>
+🎯 Desafio Surpresa
+<br>
+⚙️ Adaptabilidade do Robô
+<br>
+Busco constantemente aplicar meus conhecimentos para impulsionar a inovação e a eficiência.
+<br>
+
+</p>
 
 ##
 
