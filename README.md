@@ -7,7 +7,7 @@
 ###
 
 <p align="left">🖥️ - Sou Analista de Suporte em TI, atuando com suporte técnico especializado, manutenção e operação de sistemas internos, além de atuar como Autoridade de Registro, emitindo certificados digitais com segurança e confiabilidade.<br> 
-📚 - Atualmente estou estudando Algoritmos e Lógica de Programação, Python e Arquitetura de Redes. 
+📚 - Atualmente estou estudando Python e Arquitetura de Redes. 
 <br>
 🤖 - Minha paixão pela robótica me levou a ser campeão do Campeonato Alagoano de Sumô de Robôs 2024 (1º lugar universitário e 3 premiações adicionais).
 <br>
